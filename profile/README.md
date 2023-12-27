@@ -1,1 +1,1 @@
-![Netfence Banner](./banner.jpg)
+![Netfence Banner](./profile/banner.jpg)
